@@ -11,11 +11,11 @@ public class TestCalculator {
 		   assertEquals(2, c.telop(1,1));
 	   }
 	   
-//	   @Test
-//	   public void testSubtract() {
-//		   Calculator c = new Calculator();
-//		   assertEquals(0, c.subtract(1,1));
-//	   }
+	   @Test
+	   public void testSubtract() {
+		   Calculator c = new Calculator();
+		   assertEquals(0, c.subtract(1,1));
+	   }
 //	   
 //	   @Test
 //	   public void testMultiply() {
